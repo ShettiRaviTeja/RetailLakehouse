@@ -26,7 +26,7 @@ The pipeline includes:
 > **RetailLakehouse – End-to-End Databricks Lakehouse Architecture**
 
 <p align="center">
-<img src="docs/Databricks Lakehouse Architecture.png" width="1000">
+<img src="docs/lakehouse_architecture.png" width="1000">
 </p>
 
 ---
