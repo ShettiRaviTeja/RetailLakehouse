@@ -30,13 +30,13 @@ An end-to-end Data Engineering project built on the **Databricks Lakehouse Platf
 # 🏛️ Medallion Architecture
 
 ### 🥉 Bronze
-- Ingests raw CRM and ERP data from Databricks Volumes into Delta Tables.
+- Ingests raw CRM and ERP data from Databricks Volumes and stores it as raw Delta Tables.
 
 ### 🥈 Silver
-- Cleanses, validates, standardizes, and transforms raw datasets into trusted business-ready data.
+- Cleanses, validates, standardizes, and transforms raw data into trusted, high-quality datasets for downstream analytics.
 
 ### 🥇 Gold
-- Builds analytics-ready dimension and fact tables optimized for reporting and business intelligence.
+- Builds business-ready dimension and fact tables optimized for reporting, dashboards, and business intelligence.
 
 ---
 
